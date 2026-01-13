@@ -1,0 +1,6 @@
+Type,Id,Model,MaxSpeed,ExtraParam1,ExtraParam2,Passengers,Cargo,Mileage,FuelLevel,MaintenanceNeeded
+Car,C001,"Toyota",180.00,4,,4,,0.00,0.00,false
+Truck,T001,"Volvo",120.00,6,,,3000.00,0.00,0.00,false
+Bus,B001,"Mercedes",100.00,6,,30,499.00,0.00,0.00,false
+Airplane,A001,"Boeing 747",900.00,10000.0,,180,9999.00,0.00,0.00,false
+CargoShip,S001,"Maersk",40.00,true,,,49999.00,0.00,0.00,false
